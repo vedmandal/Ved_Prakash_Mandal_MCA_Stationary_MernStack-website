@@ -22,6 +22,7 @@ d) VED PRAKASH MANDAL   SECTION-B   ROLLNO-2401560086  PROGRAM- MCA
  :-This project is a full-stack MERN application featuring user authentication (login, register, forgot password), a product catalog with price and category filtering, user order history and profiles, and a shopping cart with Razorpay payment integration. Administrators have a dedicated panel to manage products (create, update, delete, view all) and orders (view all, update status), with these status updates reflected on the users' order pages.
 
 4) LINK TO VIDEO EXPLANTION
+   Video Explnation:-  https://krmangalameduin-my.sharepoint.com/personal/harsh_vardhan_krmangalam_edu_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Fharsh%5Fvardhan%5Fkrmangalam%5Fedu%5Fin%2FDocuments%2FFirst%20year%20Projects%2FY1%2D2024%2D25%2DG282%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Edf82100e%2D0980%2D4d52%2Db303%2D4befb67d81b6
 
 
 
