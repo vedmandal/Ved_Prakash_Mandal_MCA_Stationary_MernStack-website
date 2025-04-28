@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6bdfc3d.css",
+    "main.js": "/static/js/main.1e0bd246.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/home-sushi-rolls.png": "/static/media/home-sushi-rolls.eb632b196d379d2823bd.png",
+    "static/media/recently-salmon-sushi.png": "/static/media/recently-salmon-sushi.d7c8f873854c4ad8b22e.png",
+    "static/media/popular-spring-rols.png": "/static/media/popular-spring-rols.e615a70f1464c018c122.png",
+    "static/media/about-sushi.png": "/static/media/about-sushi.d7e4562844f06cde76f9.png",
+    "static/media/popular-sushi-rolls.png": "/static/media/popular-sushi-rolls.5396f42e9daa961c2788.png",
+    "static/media/popular-onigiri.png": "/static/media/popular-onigiri.1e63c07b869a23506b4d.png",
+    "static/media/spinach-leaf.png": "/static/media/spinach-leaf.7bf639fdbcb05014abe8.png",
+    "static/media/home-sushi-title.png": "/static/media/home-sushi-title.d0834d75c9ab07beed02.png",
+    "static/media/about-sushi-title.png": "/static/media/about-sushi-title.b18bb0075c4b024793ee.png",
+    "static/media/leaf-branch-1.png": "/static/media/leaf-branch-1.38e5e10435a1f5384d31.png",
+    "static/media/leaf-branch-2.png": "/static/media/leaf-branch-2.1f6b8bd393474580929b.png",
+    "static/media/leaf-branch-4.png": "/static/media/leaf-branch-4.89785f2bf5773cbcad78.png",
+    "static/media/logo.png": "/static/media/logo.ce7e19d9639c530a7ac9.png",
+    "index.html": "/index.html",
+    "main.d6bdfc3d.css.map": "/static/css/main.d6bdfc3d.css.map",
+    "main.1e0bd246.js.map": "/static/js/main.1e0bd246.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6bdfc3d.css",
+    "static/js/main.1e0bd246.js"
+  ]
+}
