@@ -1,2 +1,18 @@
 # Ved_Prakash_Mandal_MCA_Stationary_MernStack-website
-This  is K.R Mangalam University Project
+
+Group Code:- Y1-2024-25-G282  Stationary Mern Full Stack Website
+
+Team Members:-
+             
+1) ADARSH KUMAR JHA    SECTION- A    ROLLNO- 2401560035 PROGRAM-MCA
+
+
+2) SANSKAR SAURABH    SECTION-B  ROLLNO- 2401560081  PROGRAM- MCA
+
+
+3) RISHAV KUMAR MISHRA  SECTION-B   ROLLNO- 2401560049  PROGRAM- MCA
+
+
+4) VED PRAKASH MANDAL   SECTION-B   ROLLNO-2401560086  PROGRAM- MCA
+
+
